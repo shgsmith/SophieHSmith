@@ -1849,11 +1849,12 @@ input, select, textarea {
 
 			#nav a:hover {
 				opacity: 1.0;
+				height: 2.25em;
+
 			}
 
 				#nav a:hover span {
 					opacity: 1.0;
-					height: 2.25em;
 				}
 
 			#nav a.active {

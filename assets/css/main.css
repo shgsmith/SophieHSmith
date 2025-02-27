@@ -2964,7 +2964,7 @@
 			height: inherit;
 			line-height: inherit;
 			position: absolute;
-			right: 10em;
+			right: 1em;
 			top: 0;
 			vertical-align: middle;
 		}
@@ -3105,7 +3105,7 @@
 		list-style: none;
 		margin: calc(-0.5em + 1px) 0 0 1px;
 		padding: 0.5em 0;
-		width: 11em;
+		width: 20em;
 	}
 
 		.dropotron li {

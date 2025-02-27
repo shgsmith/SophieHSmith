@@ -2989,7 +2989,7 @@
 						height: 2em;
 						line-height: 1.95em;
 						padding: 0 1em;
-						border-radius: 12px;
+						border-radius: 6px;
 					}
 
 					#header nav > ul > li a:not(.button) {
